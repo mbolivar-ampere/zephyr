@@ -1,0 +1,3 @@
+&uart2 {
+        compatible = "ti,stellaris-uart", "ti,stellaris-gpio";
+};
